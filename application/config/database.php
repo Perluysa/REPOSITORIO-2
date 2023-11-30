@@ -72,9 +72,9 @@ $query_builder = TRUE;     // Habilita la clase de base de datos Query Builder.
 $db['default'] = array(
     'dsn'	    => '',
     
-	'hostname'  => 'localhost',	// El nombre de host o dirección IP del servidor de la base de datos.
-	'username'  => 'root',      // El nombre de usuario para la conexión a la base de datos.
-	'password'  => '',          // La contraseña para la conexión a la base de datos.
+	'hostname'  => 'luisa.mysql.database.azure.com',	// El nombre de host o dirección IP del servidor de la base de datos.
+	'username'  => 'Luisa',      // El nombre de usuario para la conexión a la base de datos.
+	'password'  => 'Arrozconleche123',          // La contraseña para la conexión a la base de datos.
 	'database'  => 'veico_tools', // El nombre de la base de datos predeterminada.
 	
     'dbdriver'  => 'mysqli',
